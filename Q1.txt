@@ -1,0 +1,43 @@
+Q1
+
+(a)
+Write an app that collects data from the accelerometers and shows
+in real-time the orientation of the smartphone (in terms of three angles).
+Note that the phone need not be still when the app is actually run, so
+the values may keep changing.
+ 
+A second activity of the app is that it also
+collects the orientation over time in a database.
+
+and export the history as textfile 
+
+
+, and then shows its history
+in the form of three graphs. 
+
+
+
+
+
+(b) 
+Take the history as a text file on your desktop, and treat it as a time
+series to predict the next 10s of values. Plot the predicted vs actual values
+in this way. Now, change the sensing intervals to three other values, and
+repeat the same process.
+
+
+Grading Rubric
+For Q1,
+
+1. Using the SensorManager to collect data – 10 marks
+2. Proper creation of two activities – 10 marks
+3. Creation of database and schema – 10 marks
+4. Storage of data in database – 10 marks
+
+5. Export of data from smartphone to computer – 10 marks
+
+7. Change of sensing intervals – 10 marks
+
+
+
+6. Use of prediction and plotting of accuracy – 10 marks

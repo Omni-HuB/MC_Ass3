@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mc_ass3_q2_ml_modeling</string>
+    <string name="classification_result">Classification result</string>
+    <string name="load_image">Load Image</string>
+    <string name="image">image</string>
+    <string name="classify_image">Classify Image</string>
+</resources>

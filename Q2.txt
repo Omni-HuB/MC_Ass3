@@ -1,0 +1,20 @@
+Q2
+
+2. While Android’s libraries provide a lot of functionalities, it does not pro-
+vide any technique of running neural network in Kotlin. However, it has
+
+a neural networks API for native code. Write a program that collects a
+set of images, and runs any form of convolutional neural network on them
+to classify them.
+
+
+
+Grading Rubric
+
+1. Running of basic native code – 10 marks
+
+2. Utilization of Native Neural Networks API – 10 marks
+
+3. Activity to load images (either from camera or from a file) – 10 marks
+4. Running of the prediction (proper running and output is important, but
+very high accuracy is not needed) – 10 marks
